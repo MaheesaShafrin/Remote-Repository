@@ -1,0 +1,1 @@
+A remote repository is a Git repository stored on a server or online platform such as GitHub, allowing developers to access and share code from different computers. It helps developers collaborate, back up their code, and synchronize changes using commands such as git push and git pull.
